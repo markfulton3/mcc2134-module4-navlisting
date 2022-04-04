@@ -18,6 +18,6 @@ item.image = 'https://picsum.photos/seed/' + item.id + '/600/600';
 
 
 ## React Navigation Libraries
-npm install @react-navigation/native
-expo install react-native-screens react-native-safe-area-context
-npm install @react-navigation/native-stack
+1. npm install @react-navigation/native
+1. expo install react-native-screens react-native-safe-area-context
+1. npm install @react-navigation/native-stack
